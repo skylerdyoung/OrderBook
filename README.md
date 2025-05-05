@@ -33,8 +33,8 @@ I recommend Visual Studio 2022 for the easiest setup and debugging experience.
 1. **Clone the repository**
 
    ```powershell
-   git clone https://github.com/skylerdyoung/OrderBook.git
-   cd OrderBook
+   git clone https://github.com/skylerdyoung/order-book.git
+   cd order-book
    ```
 
 2. **Open the solution in VS2022**
